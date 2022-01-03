@@ -1,5 +1,6 @@
 https://stackify.com/ruby-debugger-using-visual-studio-code/
+/n
 
-gem install debase
-gem install ruby-debug-ide
+gem install debase /n
+gem install ruby-debug-ide/n
 
